@@ -2,9 +2,9 @@
 
 # Java Script
 
-## Module 3: Arrays & Functions
+## Module 4: Objects
 
-### Homework 3
+### Homework 4
 
 ---
 
